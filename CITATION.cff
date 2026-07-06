@@ -1,0 +1,16 @@
+cff-version: 1.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Beyond Emergency Lighting: Passive Visual Guidance Systems in Offshore, Marine, Energy and Industrial Facilities"
+version: 1.0
+date-released: 2026-07-06
+authors:
+  - family-names: Friar
+    given-names: Alan
+    orcid: "https://orcid.org/0009-0000-6986-1771"
+    affiliation: "EnBra Group LLC"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21226852"
+license: CC-BY-4.0
+repository-code: "https://github.com/alan-g-friar/passive-visual-guidance-offshore-industrial"
