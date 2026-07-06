@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1291366236.svg)](https://doi.org/10.5281/zenodo.21226851)
+
 # Beyond Emergency Lighting: Passive Visual Guidance Systems in Offshore, Marine, Energy and Industrial Facilities
 
 A technical discussion paper exploring the potential role of passive visual
